@@ -4,11 +4,13 @@
 
 ## 🌟 Neden Ovillam?
 
-- 🔍 **SEO Uyumlu Yapı**: Next.js ile sunucu tarafı render (SSR) ve dinamik meta etiket desteği sayesinde arama motorlarında güçlü görünürlük.
+- **EN UYGUN FİYAT PERFORMANSI**
 - 📍 **Bölgeye Göre Villa Listeleme**: Fethiye, Kaş, Kalkan, Bodrum gibi popüler bölgelerde filtrelenebilir villa arama.
 - 📅 **Canlı Takvim Entegrasyonu**: Müsaitlik kontrolü ve rezervasyon kolaylığı.
 - 🏖️ **Mobil Uyumlu Tasarım**: Tüm cihazlarda kusursuz kullanıcı deneyimi.
 - ⚙️ **Yönetici Paneli (Opsiyonel)**: İlan ekleme, düzenleme ve rezervasyon yönetimi.
+- **Güvenilir** kiralama
+- **Doğa manzaralı** villalar
 
 ## 🔍 Proje Hakkında
 
@@ -25,8 +27,6 @@ Bu proje, SEO dostu URL yapıları, hızlı yüklenen sayfalar, mobil uyumluluk 
 - 🔒 Güvenli rezervasyon ve kullanıcı yönetimi altyapısı
 
 ## 📞 İletişim
-E-posta: destek@ovillam.com
-Instagram: @ovillamcom
 
 👉 Canlı görmek için: [https://www.ovillam.com](https://www.ovillam.com)
 
