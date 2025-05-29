@@ -1,6 +1,6 @@
 # Ovillam – Türkiye'nin Modern Villa Kiralama Platformu 🏡
 
-**Ovillam.com**, Türkiye'nin Antalya, Fethiye, Kaş, Kalkan bölgelerinde lüks ve ekonomik tatil villalarını kolayca keşfetmenizi ve online rezervasyon yapmanızı sağlayan modern bir **villa kiralama web uygulamasıdır**.
+**Ovillam.com**, Türkiye'nin Antalya, Fethiye, Kaş, Kalkan bölgelerinde lüks ve ekonomik tatil villalarını kolayca keşfetmenizi ve online rezervasyon yapmanızı sağlayan modern bir **villa kiralama platformudur**.
 
 ## 🌟 Neden Ovillam?
 
