@@ -24,27 +24,9 @@ Bu proje, SEO dostu URL yapıları, hızlı yüklenen sayfalar, mobil uyumluluk 
 - 🛠️ Yönetici paneli ile ilan ekleme/düzenleme (isteğe bağlı)
 - 🔒 Güvenli rezervasyon ve kullanıcı yönetimi altyapısı
 
-## 🧰 Kullanılan Teknolojiler
-
-- **Next.js** – SEO ve performans odaklı React framework
-- **React** – Bileşen tabanlı kullanıcı arayüzü
-- **Tailwind CSS** – Modern ve esnek stil yapısı
-- **Node.js / Express** – (Opsiyonel) Backend API yapısı
-- **MongoDB / PostgreSQL** – Veritabanı sistemi
-- **Cloudinary / S3** – Görsel yönetimi
-
-## 🛠️ Kurulum ve Geliştirme
-
 ## 📞 İletişim
 E-posta: destek@ovillam.com
 Instagram: @ovillamcom
 
 👉 Canlı görmek için: [https://www.ovillam.com](https://www.ovillam.com)
 
-Projeyi kendi bilgisayarınızda çalıştırmak için:
-
-```bash
-git clone https://github.com/kullaniciadi/ovillam.com.git
-cd ovillam.com
-npm install
-npm run dev
